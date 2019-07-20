@@ -1,4 +1,4 @@
-#PROJECT DEV-CONNECTOR
+## PROJECT DEV-CONNECTOR
 
 Dependencies :  "bcryptjs": "^2.4.3"
 		"gravatar": "^1.8.0"
