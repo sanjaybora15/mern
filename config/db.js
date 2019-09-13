@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 //const config = require('config');
-const url =('mongodb+srv://sanjaybora:1111@cluster0-e84vq.mongodb.net/test?retryWrites=true&w=majority');
+const url =('');
 
 const connectDB = async () => {
     try {
